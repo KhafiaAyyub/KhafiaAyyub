@@ -8,7 +8,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-  <img align="right" alt="Coding" width="350" src="https://cdn.statically.io/img/i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
+  <img align="right" alt="Coding" width="345" src="https://cdn.statically.io/img/i.pinimg.com/originals/75/8f/1c/758f1cd8cede9c3e4711306fc030f4ce.gif">
   
 
 <a href="https://twitter.com/khafia_ayyub" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khafia_ayyub" height="30" width="40" /></a>

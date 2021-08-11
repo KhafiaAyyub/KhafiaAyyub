@@ -24,8 +24,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
 <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" /></p>
-
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" /></p>
 

@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" /></p>
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KhafiaAyyub&theme=github&count_private=true)  
+
+

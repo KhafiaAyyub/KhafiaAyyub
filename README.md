@@ -28,5 +28,3 @@
 <p><img align="centre" src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=KhafiaAyyub&theme=github&count_private=true)  
-
-

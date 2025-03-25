@@ -56,15 +56,8 @@
   <a href="https://www.oracle.com/java/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://www.java2s.com/Tutorials/Java/Servlets/index.htm" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Servlet_logo.svg" alt="servlets" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/java/technologies/java-server-faces.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Java_Server_Faces_logo.svg/1200px-Java_Server_Faces_logo.svg.png" alt="jsf" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/java/technologies/jsp.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/JSP_Logo.svg" alt="jsp" width="40" height="40"/>
-  </a>
+
+
 </p>
 
 <br>

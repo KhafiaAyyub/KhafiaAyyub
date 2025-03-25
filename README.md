@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khafia Ayyub</h1>
-<h3 align="center">A passionate Full Stack Java Developer from India</h3>
+<h3 align="center">Full Stack Java Developer</h3>
 
-- 🌱 I’m currently exploring **Microservices** and enhancing my skills in **Spring Boot** and **Hibernate**.
+- 🌱 I’m currently exploring **Spring Boot**
 - 📫 How to reach me: **khafiaayyub@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -77,18 +77,5 @@
 </p>
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" />
-</p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khafiaayyub&theme=github&count_private=true) 
-
-<h3 align="left">My GitHub Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="khafiaayyub" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" />
 </p>
 

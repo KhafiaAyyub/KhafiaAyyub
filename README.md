@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Khafia Ayyub</h1>
 <h3 align="center">A passionate Full Stack Java Developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot** and **Hibernate**
-- 📫 How to reach me **khafiaayyub@gmail.com**
+- 🌱 I’m currently exploring **Microservices** and enhancing my skills in **Spring Boot** and **Hibernate**.
+- 📫 How to reach me: **khafiaayyub@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,8 +44,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
@@ -53,9 +53,22 @@
   <a href="https://hibernate.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original-wordmark.svg" alt="hibernate" width="40" height="40"/>
   </a>
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="https://www.java2s.com/Tutorials/Java/Servlets/index.htm" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Servlet_logo.svg" alt="servlets" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/java/technologies/java-server-faces.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Java_Server_Faces_logo.svg/1200px-Java_Server_Faces_logo.svg.png" alt="jsf" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/java/technologies/jsp.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/JSP_Logo.svg" alt="jsp" width="40" height="40"/>
+  </a>
 </p>
 
 <br>
+<h3 align="left">My GitHub Stats:</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" />
 </p>
@@ -66,4 +79,16 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" />
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khafiaayyub&theme=github&count_private=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=khafiaayyub&theme=github&count_private=true) 
+
+<h3 align="left">My GitHub Stats:</h3>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&count_private=true&hide_title=true&theme=dark" alt="khafiaayyub" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" />
+</p>
+

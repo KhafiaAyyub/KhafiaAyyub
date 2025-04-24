@@ -1,5 +1,6 @@
 
-### Hi there 👋 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+### Hi there 👋 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MM9wZTpmDdrJffgyA1/giphy.gif"/>
 * 👂 My name is Khafia Ayyub  
 * 👨‍💻 Pronouns: She/Her  
 * 🔭 I’m currently working as a **Java Developer**  

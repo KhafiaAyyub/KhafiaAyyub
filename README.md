@@ -1,8 +1,9 @@
 
-### Hi there 👋 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/MM9wZTpmDdrJffgyA1/giphy.gif"/>
+### Hi there 👋  
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/MM9wZTpmDdrJffgyA1/giphy.gif"/>
+
 * 👂 My name is Khafia Ayyub  
-* 👨‍💻 Pronouns: She/Her  
+* 👩 Pronouns: She/Her  
 * 🔭 I’m currently working as a **Java Developer**  
 * 🌱 I’m currently learning everything about **Spring Framework (Spring Boot, MVC, JPA, Security)**  
 * 🤝 I’m looking to collaborate on **Java backend projects**, especially anything Spring-related  

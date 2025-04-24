@@ -1,7 +1,7 @@
 
 ### Hi there 👋  
 
-<img align="right" alt="Coding" width="220" src="https://media.giphy.com/media/MM9wZTpmDdrJffgyA1/giphy.gif"/>
+<img align="right" alt="Coding" width="240" src="https://media.giphy.com/media/MM9wZTpmDdrJffgyA1/giphy.gif"/>
 
 👂 My name is **Khafia Ayyub**  
 👩 Pronouns: **She/Her**  

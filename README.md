@@ -1,5 +1,5 @@
 
-### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=khafiaayyub&style=flat-square" alt="Profile views"/>
+### Hi there 👋 <img align="right" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
 * 👂 My name is Khafia Ayyub  
 * 👨‍💻 Pronouns: She/Her  
 * 🔭 I’m currently working as a **Java Developer**  

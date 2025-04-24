@@ -41,9 +41,10 @@
   <div style="flex: 1; display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" width="45%" />
   </div>
-  <div style="flex: 1; display: flex; justify-content: center;">
+  <div style="flex: 1; display: flex; justify-content: center; margin-left: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" width="45%" />
   </div>
 </div>
+
 
 

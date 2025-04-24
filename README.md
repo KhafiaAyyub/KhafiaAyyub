@@ -1,20 +1,19 @@
 
-### Hi there 👋  
+### Hi there 👋
 
-<div align="right">
-  <img alt="Coding" width="250" src="https://media.giphy.com/media/MM9wZTpmDdrJffgyA1/giphy.gif"/>
+<div style="float: right; margin-left: 20px;">
+  <img alt="Coding" src="https://media.giphy.com/media/MM9wZTpmDdrJffgyA1/giphy.gif" width="200"/>
 </div>
 
 👂 My name is **Khafia Ayyub**  
 👩 Pronouns: **She/Her**  
-🔭 I’m currently working as a **Java Developer**  
+👩‍💻 I’m currently working as a **Java Developer**  
 🌱 I’m currently learning everything about **Spring Framework (Spring Boot, MVC, JPA, Security)**  
 🤝 I’m looking to collaborate on **Java backend projects**, especially anything Spring-related  
 🤔 I’m looking for help with **advanced Spring concepts and best practices**  
 💬 Ask me about **Java, Spring basics, Hibernate, JSP/Servlets**  
-📫 How to reach me: *khafiaayyub@gmail.com* or [LinkedIn](https://www.linkedin.com/in/khafia-ayyub-1205a4181/)  
-❤️ I love clean code, learning new tech, and helping others grow  
-⚡ Fun fact: I can write better code at midnight than in the morning 🌙
+📫 How to
+
 
 
 

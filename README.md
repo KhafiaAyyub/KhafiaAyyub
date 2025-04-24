@@ -37,11 +37,13 @@
 ## 🚀 My GitHub Stats
 
 <br>
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <div style="flex: 1; padding-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" width="45%" />
+<div style="display: flex; justify-content: space-between; width: 100%; height: 300px;">
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" width="90%" height="100%" />
   </div>
-  <div style="flex: 1; padding-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" width="45%" />
+  <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" width="90%" height="100%" />
   </div>
 </div>
+
+

@@ -36,16 +36,16 @@
 
 <br>
 <h3 align="left">My GitHub Stats:</h3>
-<div style="display: flex; justify-content: space-between;">
-  <p style="flex: 1; margin-right: 20px;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" />
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <p style="flex: 1; padding-right: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" width="100%" />
   </p>
-  <p style="flex: 1;">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" />
+  <p style="flex: 1; padding-left: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" width="100%" />
   </p>
 </div>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" width="100%" />
 </p>
 
 

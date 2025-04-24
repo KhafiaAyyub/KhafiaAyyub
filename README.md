@@ -12,7 +12,7 @@
 💬 Ask me about **Java, Spring basics, Hibernate, JSP/Servlets**  
 📫 How to reach me: *khafiaayyub@gmail.com* or [LinkedIn](https://www.linkedin.com/in/khafia-ayyub-1205a4181/)  
 ❤️ I love clean code, learning new tech, and helping others grow  
-⚡ Fun fact: I once debugged a bug just by looking at it for 3 hours — true story 😅
+⚡ Fun fact: I can write better code at midnight than in the morning 🌙
 
 
 

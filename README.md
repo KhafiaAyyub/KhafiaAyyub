@@ -34,18 +34,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
 </div>
 
+## 🚀 My GitHub Stats
+
 <br>
-<h3 align="left">My GitHub Stats:</h3>
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <p style="flex: 1; padding-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="khafiaayyub" width="45%" />
   </p>
   <p style="flex: 1; padding-left: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="khafiaayyub" width="45%" />
   </p>
 </div>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khafiaayyub&theme=dark" alt="khafiaayyub" width="100%" />
-</p>
+
 
 

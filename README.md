@@ -15,26 +15,10 @@
 ⚡ Fun fact: I can write better code at midnight than in the morning 🌙
 
 
-
-
-
-
-  
-  <a href="https://twitter.com/khafia_ayyub" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khafia_ayyub" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/khafia-ayyub-1205a4181/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khafia-ayyub" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/khafia.ayyub.9/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khafia.ayyub.9" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/khafia_01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khafia_01" height="30" width="40" />
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=khafiaayyub&style=flat-square)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 

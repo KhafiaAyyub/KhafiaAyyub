@@ -41,7 +41,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" width="45%" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" width="55%" />
 </div>
 
 

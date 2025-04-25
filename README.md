@@ -10,7 +10,7 @@
 🤝 I’m looking to collaborate on **Java backend projects**, especially anything Spring-related  
 🤔 I’m looking for help with **advanced Spring concepts and best practices**  
 💬 Ask me about **Java, Spring basics, Hibernate, JSP/Servlets**  
-📫 How to reach me: *khafiaayyub@gmail.com* or [LinkedIn](https://www.linkedin.com/in/khafia-ayyub-1205a4181/)  
+📫 How to reach me: **khafiaayyub@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/khafia-ayyub-1205a4181/)**  
 ❤️ I love clean code, learning new tech, and helping others grow  
 ⚡ Fun fact: I can write better code at midnight than in the morning 🌙
 
@@ -39,10 +39,11 @@
 <br>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khafiaayyub&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" width="45%" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khafiaayyub&show_icons=true&locale=en" alt="GitHub Stats" width="50%" />
 </div>
+
 
 
 

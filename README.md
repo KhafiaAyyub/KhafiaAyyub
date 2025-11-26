@@ -8,7 +8,7 @@
 👩‍💻 I’m currently working as a **Java Backend Developer**  
 🤝 I’m looking to collaborate on **Java backend projects**, especially anything Spring boot-related  
 🤔 I’m looking for help with **advanced Spring-boot concepts and best practices**  
-💬 Ask me about **Java, Spring Boot (including Spring Security & Spring Data JPA), Hibernate, REST API design, Microservices architecture, Docker & containerization, JWT-based authentication, and scalable backend systems**  
+💬 Ask me about **Java, Spring Boot (including Spring Security & Spring Data JPA), Hibernate, REST API design**  
 📫 How to reach me: **khafiaayyub@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/khafia-ayyub-1205a4181/)**  
 ❤️ I love clean code, learning new tech, and helping others grow  
 ⚡ Fun fact: I can write better code at midnight than in the morning 🌙
